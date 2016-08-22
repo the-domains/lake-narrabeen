@@ -11,6 +11,9 @@ color:
     - '#F3FFE2'
     - '#EB7F00'
 layout_spectrum: 0.0488974719773978
+author:
+  name: Mike Shaw
+  email: mike@applimatix.com
 name: Lake Narrabeen
 title: Lake Narrabeen
 description: Almost daily imagery
