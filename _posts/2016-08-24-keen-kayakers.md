@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-24T11:36:54.152Z'
+datePublished: '2016-08-24T11:40:08.355Z'
+sourcePath: _posts/2016-08-24-keen-kayakers.md
 author: []
 via: {}
-dateModified: '2016-08-24T11:36:50.598Z'
+dateModified: '2016-08-24T11:40:07.393Z'
 title: ''
 publisher: {}
 description: Keen kayakers.
 starred: false
-sourcePath: _posts/2016-08-24-keen-kayakers.md
 inFeed: true
 hasPage: true
 inNav: false
