@@ -4,8 +4,15 @@
         <description><![CDATA[Lake Narrabeen]]></description>
         <link>http://lakenarrabeen.pics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 11:26:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 11:40:10 GMT</lastBuildDate>
         <atom:link href="http://lakenarrabeen.pics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46b79537-2a69-42fa-847c-48f97082159a.jpg" alt="Keen kayakers.">]]></description>
+            <link>http://lakenarrabeen.pics/keen-kayakers/index.html</link>
+            <guid isPermaLink="false">8b62ffe2-03da-411d-934e-f2a91807b77a</guid>
+            <pubDate>Wed, 24 Aug 2016 11:40:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44874810-4264-411c-8940-2c333863b695.jpg" alt="Percival and his mates.">]]></description>
