@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-24T13:16:02.731Z'
+datePublished: '2016-08-24T13:23:53.200Z'
 sourcePath: _posts/2016-08-24-morning-light.md
 inFeed: true
 isBasedOnUrl: null
@@ -8,7 +8,7 @@ hasPage: false
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-24T13:15:56.773Z'
+dateModified: '2016-08-24T13:23:51.873Z'
 title: ''
 id: 238a930b-b011-4380-9706-f2de9fd531ea
 publisher: {}
