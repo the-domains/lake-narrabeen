@@ -1,7 +1,18 @@
+layout_spectrum: 1
+typography_spectrum: 0.6848474030848593
+color:
+  brandColors:
+    - '#000000'
+    - '#E0E4E3'
+    - '#6B717D'
+    - '#2B313D'
+    - '#F4555E'
+  brandStrength: 0.1875
+  lightness: 0.6875
+  saturation: 0.8125
+  rhythmicContrast: 0.75
 name: Lake Narrabeen
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.20784
 author:
   name: Mike Shaw
   email: mike@applimatix.com
@@ -19,15 +30,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#E0E4E3'
-    - '#6B717D'
-    - '#2B313D'
-    - '#F4555E'
-  brandStrength: 0.1875
-  lightness: 0.6875
-  saturation: 0.8125
-  rhythmicContrast: 0.75
 purpose: []
