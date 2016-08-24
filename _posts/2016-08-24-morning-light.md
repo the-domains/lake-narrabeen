@@ -1,14 +1,24 @@
 ---
-datePublished: '2016-08-24T12:40:31.901Z'
-sourcePath: _posts/2016-08-24-morning-light.md
 inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: Morning light...
+datePublished: '2016-08-24T13:15:23.594Z'
+dateModified: '2016-08-24T13:11:08.769Z'
+sourcePath: _posts/2016-08-24-morning-light.md
 author: []
 via: {}
-dateModified: '2016-08-24T12:40:31.043Z'
 title: ''
 id: 238a930b-b011-4380-9706-f2de9fd531ea
-publisher: {}
-description: ''
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: true
 _type: Blurb
 
