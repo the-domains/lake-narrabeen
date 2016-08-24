@@ -1,4 +1,24 @@
+name: Lake Narrabeen
+favicon: null
+layout_spectrum: 0.8246468924917281
 typography_spectrum: 0.19262200128287077
+author:
+  name: Mike Shaw
+  email: mike@applimatix.com
+title: Lake Narrabeen
+description: Almost daily pics
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-83073550-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -6,28 +26,8 @@ color:
     - '#6B717D'
     - '#2B313D'
     - '#F4555E'
-  brandStrength: 0.256503778276965
-  lightness: 0.8606667073909193
-  saturation: 0.7115523281972855
-  rhythmicContrast: 0.44453981053084135
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.8246468924917281
-analytics:
-  google: UA-83073550-1
-  facebook: null
-  twitter: null
-author:
-  name: Mike Shaw
-  email: mike@applimatix.com
-name: Lake Narrabeen
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Lake Narrabeen
-description: Almost daily pics
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
