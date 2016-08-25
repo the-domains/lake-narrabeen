@@ -4,7 +4,7 @@
         <description><![CDATA[Lake Narrabeen]]></description>
         <link>http://lakenarrabeen.pics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 08:31:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 09:04:40 GMT</lastBuildDate>
         <atom:link href="http://lakenarrabeen.pics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -57,10 +57,10 @@
         </item>
         <item>
             <title><![CDATA[About]]></title>
-            <description><![CDATA[<p>Why?</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9528543-0889-4ebd-8889-3ffb8fef59f1.jpg">]]></description>
             <link>http://lakenarrabeen.pics/about/index.html</link>
             <guid isPermaLink="false">af377e07-d775-4e7d-a64d-414486d9f1e6</guid>
-            <pubDate>Thu, 25 Aug 2016 08:31:19 GMT</pubDate>
+            <pubDate>Thu, 25 Aug 2016 09:04:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
