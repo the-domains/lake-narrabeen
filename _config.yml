@@ -27,10 +27,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: About
-    id: af377e07-d775-4e7d-a64d-414486d9f1e6
-    type: content
 favicon: null
 title: Lake Narrabeen
 description: Almost daily pics
