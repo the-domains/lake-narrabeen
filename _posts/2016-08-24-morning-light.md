@@ -1,20 +1,26 @@
 ---
-datePublished: '2016-08-24T13:49:41.284Z'
-sourcePath: _posts/2016-08-24-morning-light.md
 inFeed: true
-isBasedOnUrl: null
-authors: []
 hasPage: false
+inNav: false
+isBasedOnUrl: ''
+inLanguage: null
 keywords: []
-author: []
+description: ''
+datePublished: '2016-08-27T04:15:36.768Z'
+dateModified: '2016-08-27T04:04:42.598Z'
+sourcePath: _posts/2016-08-24-morning-light.md
+author:
+  - name: ''
+    url: ''
 via: {}
-dateModified: '2016-08-24T13:49:40.341Z'
 title: ''
 id: 238a930b-b011-4380-9706-f2de9fd531ea
-publisher: {}
-description: ''
-inLanguage: null
-inNav: false
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 _type: Blurb
 
