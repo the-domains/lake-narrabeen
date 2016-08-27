@@ -1,23 +1,27 @@
 ---
-datePublished: '2016-08-24T13:25:57.224Z'
-sourcePath: _posts/2016-08-24-little-island.md
 inFeed: true
-isBasedOnUrl: ''
-authors: []
 hasPage: false
+inNav: false
+isBasedOnUrl: ''
+inLanguage: null
 keywords: []
+description: ''
+datePublished: '2016-08-27T04:15:36.780Z'
+dateModified: '2016-08-27T04:03:37.195Z'
+id: 26d0144f-ad3e-4747-8661-708f4642757f
+title: ''
 author:
   - name: ''
     url: ''
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 via: {}
-dateModified: '2016-08-24T13:25:55.768Z'
-title: ''
-id: 26d0144f-ad3e-4747-8661-708f4642757f
-publisher: {}
-description: ''
-inLanguage: null
-inNav: false
 starred: false
+sourcePath: _posts/2016-08-24-little-island.md
 _type: Blurb
 
 ---
