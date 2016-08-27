@@ -1,15 +1,27 @@
 ---
-datePublished: '2016-08-24T13:50:40.595Z'
-sourcePath: _posts/2016-08-24-keen-kayakers.md
 inFeed: true
-author: []
-via: {}
-dateModified: '2016-08-24T13:50:00.529Z'
-title: ''
-id: 8b62ffe2-03da-411d-934e-f2a91807b77a
-publisher: {}
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
+inLanguage: null
+keywords: []
 description: ''
+datePublished: '2016-08-27T04:15:36.772Z'
+dateModified: '2016-08-27T04:04:25.219Z'
+id: 8b62ffe2-03da-411d-934e-f2a91807b77a
+title: ''
+author:
+  - name: ''
+    url: ''
+authors: []
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
+via: {}
 starred: false
+sourcePath: _posts/2016-08-24-keen-kayakers.md
 _type: Blurb
 
 ---
